@@ -6,13 +6,13 @@ import chatProject.model.user.UserInfo;
  * The content of the form to add a new message.
  * @param <T> the type of messages to use (probably String)
  */
-public class AddMessageForm<T> {
+public class AddMessageForm<String> {
 
     private final int chatroomId;
     private final UserInfo user;
-    private final T content;
+    private final String content;
 
-    public AddMessageForm(int chatroomId, UserInfo user, T content) {
+    public AddMessageForm(int chatroomId, UserInfo user, String content) {
         this.chatroomId = chatroomId;
         this.user = user;
         this.content = content;
@@ -38,7 +38,7 @@ public class AddMessageForm<T> {
      * Gets the content of the message.
      * @return the message content
      */
-    public T getContent() {
+    public String getContent() {
         return content;
     }
 }

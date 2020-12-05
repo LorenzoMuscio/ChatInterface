@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\clients",
+    "\\clients\\console",
+    "\\clients\\console\\src",
+    "\\clients\\console\\src\\main",
+    "\\clients\\console\\src\\main\\java",
+    "\\clients\\console\\src\\main\\java\\chatProject",
+    "\\clients\\console\\src\\main\\java\\chatProject\\client",
+    "\\clients\\console\\src\\main\\java\\chatProject\\client\\chat",
+    "\\clients\\console\\src\\main\\java\\chatProject\\client\\chat\\algo"
+  ],
+  "SelectedNode": "\\clients\\console\\src\\main\\java\\chatProject\\client\\chat\\algo\\ChatClient.java",
+  "PreviewInSolutionExplorer": false
+}
