@@ -7,10 +7,16 @@
     "\\clients\\console\\src\\main",
     "\\clients\\console\\src\\main\\java",
     "\\clients\\console\\src\\main\\java\\chatProject",
-    "\\clients\\console\\src\\main\\java\\chatProject\\client",
-    "\\clients\\console\\src\\main\\java\\chatProject\\client\\chat",
-    "\\clients\\console\\src\\main\\java\\chatProject\\client\\chat\\algo"
+    "\\common",
+    "\\common\\src",
+    "\\common\\src\\test",
+    "\\common\\src\\test\\java",
+    "\\common\\src\\test\\java\\chatProject",
+    "\\common\\src\\test\\java\\chatProject\\model",
+    "\\common\\src\\test\\java\\chatProject\\model\\user",
+    "\\gradle",
+    "\\gradle\\wrapper"
   ],
-  "SelectedNode": "\\clients\\console\\src\\main\\java\\chatProject\\client\\chat\\algo\\ChatClient.java",
+  "SelectedNode": "\\clients\\console\\src\\main\\java\\chatProject\\FakeInstances.java",
   "PreviewInSolutionExplorer": false
 }
