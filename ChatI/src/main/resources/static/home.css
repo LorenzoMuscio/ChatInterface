@@ -1,0 +1,57 @@
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  #body {
+    background-color: red;
+    margin:0;
+  }
+  
+  #header-rectangle {
+    width:100%;
+    height:80px;
+    border-bottom:3px solid #FFF;
+    background-color:#000;
+    text-align:center;
+  }
+  
+  #rectangle-left, #rectangle-right {
+    display:inline-block;
+    width:200px;
+    height:100px;
+    border:3px solid #FFF;
+    background-color:#000;
+    text-align:center;
+    color:white;
+    border-radius: 20%;
+  }
+  
+  #rectangle-left {
+    margin-left:-150px;
+  }
+  
+  #rectangle-right {
+    margin-left:150px;
+  }
+  
+  #rectangle-left:hover {
+    background-color:white;
+    border-color:black;
+    color: black;
+  }
+  
+  #rectangle-right:hover {
+    background-color:white;
+    border-color:black;
+    color: black;
+  }
+  
+  #user-list-detail, #chatroom-detail {
+    margin-top: 140px;
+    font-size: 18px;
+  }
