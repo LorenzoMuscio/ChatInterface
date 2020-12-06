@@ -1,7 +1,7 @@
 @RestController
 public class UIController {
 	@RequestMapping("/")
-	public ModelAndView home() {
+	public ModelAndView index() {
 		ModelAndView viewHome = new ModelAndView("Home");
 		return viewHome;
 	}

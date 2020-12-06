@@ -8,10 +8,10 @@
 		<version>2.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>Chat-Interface</groupId>
-	<artifactId>spring</artifactId>
+	<groupId>com.ChatI</groupId>
+	<artifactId>ChatI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring</name>
+	<name>ChatI</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -21,7 +21,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
